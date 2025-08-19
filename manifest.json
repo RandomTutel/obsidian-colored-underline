@@ -1,10 +1,11 @@
 {
-  "id": "obsidian-colored-underline",
-  "name": "Obsidian Colored Underline",
+  "id": "colored-underline",
+  "name": "Colored Underline",
   "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "description": "Underline your text in customizable colors (red, blue, green, yellow, or any CSS color).",
   "author": "RandomTutel",
-  "authorUrl": "https://github.com/RandomTutel/obsidian-colored-underline",
+  "authorUrl": "https://github.com/RandomTutel",
   "isDesktopOnly": true
 }
+
