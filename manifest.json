@@ -1,0 +1,9 @@
+{
+  "id": "underline-color",
+  "name": "Underline Color",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "author": "RandomTutel",
+  "description": "Underline the selected text with your favorite color.",
+  "isDesktopOnly": false
+}
