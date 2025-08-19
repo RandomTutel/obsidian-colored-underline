@@ -1,14 +1,14 @@
 # obsidian-colored-underline
 
-Select the text you want to underline and use the default hotkey `CTRL+U` to underline it (default color is blue).
+Select the text you want to underline and use the default hotkey `CTRL+U` to underline it.
 
-You can change the color fast by using the command palette (`CTRL+P`) and chose from the 4 most common colors:
+You can quickly change the color using the command palette (`CTRL+P`) and choose from the four most common options:
 - Red 🟥
 - Blue 🟦
 - Green 🟩
 - Yellow 🟨
 
-Or you can change in the settings of a custom color of your liking (any available in CSS).
+Or customize your own color in the plugin settings (any color available via CSS).
 ---
 <img width="662" height="226" alt="image" src="https://github.com/user-attachments/assets/bc9be0bb-47e7-4ce9-bb29-7008db80cbe5" />
 
@@ -18,6 +18,6 @@ Or you can change in the settings of a custom color of your liking (any availabl
 
 ---
 
-This plugin is especially usefull for people who like the more "classic" way of highlighting things.
+This plugin is especially useful for users who prefer the classic way of highlighting text.
 
-I hope you like it!
+I hope you enjoy it!
