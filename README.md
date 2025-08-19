@@ -1,4 +1,4 @@
-# obsidian-colored-underline
+# colored-underline
 
 Select the text you want to underline and use the default hotkey `CTRL+U` to underline it.
 
